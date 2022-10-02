@@ -6,13 +6,15 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/espadrine.svg?style=social&label=Follow%20%40astrosoftware)](https://twitter.com/astrosoftware)
 
-JS9: astronomical image display everywhere
+JS9_AIM: JS9 intended for use in the AIM Project
 ==========================================
 
 ![JS9](images/js9Readme.png)
 
 What does it do?
 ----------------
+This is list going to be minimized to features necessary for creating
+pretty pictures in a school context.
 
   - display FITS images, binary tables, data cubes, and multi-extension files
   - colormaps, scaling, pan, zoom, binning, blending, print, export ...
